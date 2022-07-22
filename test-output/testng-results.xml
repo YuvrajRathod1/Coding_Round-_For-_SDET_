@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application Open]]>
+    </line>
+    <line>
+      <![CDATA[URL Entered]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Realeased date]]>
+    </line>
+    <line>
+      <![CDATA[URL Entered]]>
+    </line>
+    <line>
+      <![CDATA[ Clicked on Country of origin]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-22T11:01:57Z" name="Default suite" finished-at="2022-07-22T11:02:28Z" duration-ms="31284">
+    <groups>
+    </groups>
+    <test started-at="2022-07-22T11:01:57Z" name="Default test" finished-at="2022-07-22T11:02:28Z" duration-ms="31284">
+      <class name="CodingRound_SDET.Movie_Pushpa">
+        <test-method signature="startUp()[pri:0, instance:CodingRound_SDET.Movie_Pushpa@2767e23c]" started-at="2022-07-22T16:31:57Z" name="startUp" finished-at="2022-07-22T16:32:28Z" duration-ms="31232" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Open]]>
+            </line>
+            <line>
+              <![CDATA[URL Entered]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Realeased date]]>
+            </line>
+            <line>
+              <![CDATA[URL Entered]]>
+            </line>
+            <line>
+              <![CDATA[ Clicked on Country of origin]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+      </class> <!-- CodingRound_SDET.Movie_Pushpa -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
